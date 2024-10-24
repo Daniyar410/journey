@@ -1,0 +1,40 @@
+
+
+.header {
+    padding-top: 60px;
+    padding-bottom: 100px;
+
+    background-color: rgba(77, 192, 254, 1);
+    color: #fff;
+}
+
+.wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    width: 500px;
+}
+
+.btn {
+    background-color: #ffd429;
+    font-weight: bold;
+    padding: 15px 24px;
+    text-align: center;
+    border: none;
+    text-decoration: none;
+}
+
+.dream {
+
+    span{
+        font-size: 60px;
+    }
+
+    p{
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+}
